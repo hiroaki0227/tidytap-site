@@ -13,6 +13,6 @@ export default function PrivacyPage() {
     <section><h2>Google Play Billing</h2><p>Unlimitedの購入と復元にはGoogle Play Billingを使用します。支払い情報はGoogleが処理し、TidyTapは商品情報と購入状態を受け取ります。Roomel Studioがクレジットカード番号を取得することはありません。</p></section>
     <section><h2>外部送信</h2><p>TidyTap本体には独自サーバーへの写真送信機能、クラウド同期、アカウント、広告、利用状況分析機能はありません。設定画面の法的情報リンクを選ぶと、端末のブラウザーでこのWebsiteを開きます。</p></section>
     <section><h2>データの削除</h2><p>アプリをアンインストールすると、TidyTapが端末内に保存したデータベースと設定はAndroidによって削除されます。ただし、すでに端末へ適用した写真の移動、削除、作成済みアルバムは元に戻りません。</p></section>
-    <section><h2>お問い合わせ</h2><p>問い合わせ先：<code>CONTACT_EMAIL</code>（Google Play公開前に有効なメールアドレスへ置換します）</p></section>
+    <section><h2>お問い合わせ</h2><p>問い合わせ先：<a href="mailto:roomel.studio@gmail.com">roomel.studio@gmail.com</a></p></section>
   </LegalPage>;
 }

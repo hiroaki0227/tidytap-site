@@ -11,6 +11,6 @@ export default function SupportPage() {
     <section><h2>仕分けただけで写真は移動しますか？</h2><p>移動しません。Albumをタップした段階では変更予定として保存され、「適用」を選んだ後に端末へ反映されます。</p></section>
     <section><h2>操作を戻したい</h2><p>適用前ならSort画面のUndoを使用できます。適用後のファイル移動や削除はTidyTapのUndo対象外です。</p></section>
     <section><h2>Unlimitedを復元したい</h2><p>購入時と同じGoogleアカウントでGoogle Playへログインし、TidyTapの設定またはPaywallから「購入を復元」を選んでください。</p></section>
-    <section><h2>お問い合わせ</h2><p>サポート：<code>CONTACT_EMAIL</code>（Google Play公開前に有効なメールアドレスへ置換します）。問い合わせ時は端末名、Androidバージョン、問題が起きた画面を添えてください。写真そのものを送る必要はありません。</p></section>
+    <section><h2>お問い合わせ</h2><p>サポート：<a href="mailto:roomel.studio@gmail.com">roomel.studio@gmail.com</a>。問い合わせ時は端末名、Androidバージョン、問題が起きた画面を添えてください。写真そのものを送る必要はありません。</p></section>
   </LegalPage>;
 }

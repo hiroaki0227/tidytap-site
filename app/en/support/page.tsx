@@ -11,6 +11,6 @@ export default function SupportPage() {
     <section><h2>Does sorting move a photo immediately?</h2><p>No. Tapping an album creates a pending change. The device is changed only after you choose Apply and approve any Android confirmation.</p></section>
     <section><h2>I want to undo an action</h2><p>Use Undo on the Sort screen before applying changes. Photo moves and deletions are not covered by TidyTap Undo after Apply.</p></section>
     <section><h2>I want to restore Unlimited</h2><p>Sign in to Google Play with the Google account used for purchase, then choose Restore Purchase from TidyTap Settings or the paywall.</p></section>
-    <section><h2>Contact</h2><p>Support: <code>CONTACT_EMAIL</code> (replace with a valid address before the Google Play release). Include your device model, Android version, and the screen where the issue occurred. You do not need to send the photo itself.</p></section>
+    <section><h2>Contact</h2><p>Support: <a href="mailto:roomel.studio@gmail.com">roomel.studio@gmail.com</a>. Include your device model, Android version, and the screen where the issue occurred. You do not need to send the photo itself.</p></section>
   </LegalPage>;
 }

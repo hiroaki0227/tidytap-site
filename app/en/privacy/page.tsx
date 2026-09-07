@@ -13,6 +13,6 @@ export default function PrivacyPage() {
     <section><h2>Google Play Billing</h2><p>Unlimited purchases and restores use Google Play Billing. Google processes payment information; TidyTap receives product and purchase status information. Roomel Studio does not receive your card number.</p></section>
     <section><h2>External transmission</h2><p>TidyTap has no feature for uploading photos to our server, cloud synchronization, user accounts, advertising, or usage analytics. Selecting a legal link in Settings opens this Website in your device browser.</p></section>
     <section><h2>Deleting local data</h2><p>Uninstalling TidyTap removes its local database and settings through Android. It does not reverse photo moves or deletions already applied, and it does not remove albums already created on your device.</p></section>
-    <section><h2>Contact</h2><p>Contact: <code>CONTACT_EMAIL</code> (replace with a valid address before the Google Play release).</p></section>
+    <section><h2>Contact</h2><p>Contact: <a href="mailto:roomel.studio@gmail.com">roomel.studio@gmail.com</a></p></section>
   </LegalPage>;
 }
