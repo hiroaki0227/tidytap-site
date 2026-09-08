@@ -27,7 +27,7 @@ npm run dev
 
 ## GitHub Pages
 
-`.github/workflows/pages.yml`は手動実行です。問い合わせ先は`roomel.studio@gmail.com`へ設定済みです。Actionsの「Deploy TidyTap website to GitHub Pages」を実行すると公開できます。
+`.github/workflows/pages.yml`は`main`へのPushで自動実行され、Actionsからの手動実行にも対応します。問い合わせ先は`roomel.studio@gmail.com`へ設定済みです。
 
 Custom Domainは`tidytap.roomelstudio.com`で、`public/CNAME`へ設定済みです。DNS側では次を設定します。
 
